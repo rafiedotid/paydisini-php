@@ -41,7 +41,6 @@ if($channels['success']) {
 <h3>Membuat Transaksi</h3>
 
 ```php
-Copy
 $transaction = $paydisini->createTransaction([
     'unique_code' => 'INV123',
     'service' => 2, // ID channel pembayaran
