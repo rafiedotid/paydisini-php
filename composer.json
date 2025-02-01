@@ -1,0 +1,21 @@
+{
+    "name": "rafiedotid/paydisini-php",
+    "description": "PHP Library for Paydisini Payment Gateway",
+    "type": "library",
+    "require": {
+        "php": ">=7.4",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Paydisini\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rafoe Achmad Fahrezi",
+            "email": "rafiedotid@gmail.com"
+        }
+    ]
+}
