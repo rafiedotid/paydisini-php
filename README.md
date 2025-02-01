@@ -17,7 +17,7 @@
 <p>Install library menggunakan Composer:</p>
 
 ```bash
-composer require username/paydisini-php
+composer require rafiedotid/paydisini-php
 ```
 <h2>🚀 Penggunaan</h2><h3>Inisialisasi</h3>
 
