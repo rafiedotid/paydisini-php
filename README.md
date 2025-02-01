@@ -78,4 +78,4 @@ echo json_encode(['success' => true]);
 
 <h2>📚 Dokumentasi Lengkap</h2><p>Untuk dokumentasi lengkap, lihat <a href="https://paydisini.co.id">dokumentasi resmi Paydisini</a>.</p>
 <h2>📝 Catatan Penting</h2><ul> <li>Pastikan meng-whitelist IP Paydisini: <code>45.87.242.188</code></li> <li>Simpan API Key dengan aman</li> <li>Handle callback dengan benar untuk update status transaksi</li> <li>Cek selalu minimum dan maksimum transaksi untuk setiap channel</li> </ul>
-<h2>📜 License</h2><p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p><p align="center"> Made with ❤️ by <a href="https://github.com/username">Your Name</a> </p>
+<h2>📜 License</h2><p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p><p align="center"> Made with ❤️ by <a href="https://github.com/rafiedotid">rafiedotid</a> </p>
