@@ -1,8 +1,8 @@
 <h1 align="center">Paydisini PHP Library</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/packagist/v/username/paydisini-php?style=flat-square" alt="Latest Version">
-  <img src="https://img.shields.io/packagist/l/username/paydisini-php?style=flat-square" alt="License">
+  <img src="https://img.shields.io/packagist/v/rafiedotid/paydisini-php?style=flat-square" alt="Latest Version">
+  <img src="https://img.shields.io/packagist/l/rafiedotid/paydisini-php?style=flat-square" alt="License">
   <img src="https://img.shields.io/packagist/php-v/username/paydisini-php?style=flat-square" alt="PHP Version">
 </p>
 
